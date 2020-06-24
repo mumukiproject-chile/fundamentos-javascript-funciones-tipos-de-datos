@@ -1,0 +1,3 @@
+¿Ya te cansaste de jugar con bolitas de colores? :black_circle::red_circle::large_blue_circle: Tenemos una buena noticia. En este capítulo vamos a aprender **programación imperativa** de la mano de uno de los lenguajes de programación más utilizados de la industria del software: JavaScript.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/oDeiCbjWOxw?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -1,0 +1,16 @@
+---
+locale: es
+tags:
+- funciones
+- composicion
+- matematica
+- numeros
+- invocacion
+layout: input_bottom
+editor: code
+type: problem
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices: []
+name: Funciones, uso

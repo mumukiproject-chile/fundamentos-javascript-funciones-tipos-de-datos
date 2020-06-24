@@ -1,0 +1,15 @@
+---
+locale: es
+tags:
+- booleanos
+- expresiones
+- and
+- operadores-booleanos
+layout: input_bottom
+editor: code
+type: problem
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices: []
+name: El retorno del booleano

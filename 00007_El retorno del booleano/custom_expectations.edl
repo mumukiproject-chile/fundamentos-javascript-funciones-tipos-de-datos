@@ -1,0 +1,2 @@
+expectation "`esNumeroDeLaSuerte` tiene que devolver una expresión booleana":
+  through `esNumeroDeLaSuerte` returns with logic;

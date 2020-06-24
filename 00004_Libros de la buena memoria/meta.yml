@@ -1,0 +1,14 @@
+---
+locale: es
+tags:
+- booleanos
+- operadores-booleanos
+- funciones
+layout: input_bottom
+editor: code
+type: problem
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices: []
+name: Libros de la buena memoria
