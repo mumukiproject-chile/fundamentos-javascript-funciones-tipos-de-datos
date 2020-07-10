@@ -1,3 +1,3 @@
 function esDiaFavorito(diaDelMes) {
-  return diaDelMes === 1 
+    return diaDelMes === 1;
 }

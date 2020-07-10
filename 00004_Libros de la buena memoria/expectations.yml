@@ -1,11 +1,11 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Declares:leGustaLeer
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Not:SourceRepeats:return
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Except:HasRedundantIf
+  - !ruby 
+    binding: "*"
+    inspection: Declares:leGustaLeer
+  - !ruby 
+    binding: "*"
+    inspection: Not:SourceRepeats:return
+  - !ruby 
+    binding: "*"
+    inspection: Except:HasRedundantIf

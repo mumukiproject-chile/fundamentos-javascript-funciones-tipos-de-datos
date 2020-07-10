@@ -1,11 +1,11 @@
-¿No estás convencido de que el máximo entre `saldo - monto`  y `0` resuelve nuestro problema? Compará estos ejemplos con los dos anteriores:
+¿No estás convencido de que el máximo entre `saldo - monto`  y `0` resuelve nuestro problema? Compara estos ejemplos con los dos anteriores:
 
 ```javascript
-ム Math.max(100 - 30, 0)
-70 // da el máximo entre 70 y 0, que es 70  
+ム Math.max(10.000 - 3.000, 0)
+7.000 // da el máximo entre 7.000 y 0, que es 7.000  
 
-ム Math.max(100 - 120, 0)
-0 // da el máximo entre -20 y 0, que es 0
+ム Math.max(10.000 - 12.000, 0)
+0 // da el máximo entre -2.000 y 0, que es 0
 ```
 
 

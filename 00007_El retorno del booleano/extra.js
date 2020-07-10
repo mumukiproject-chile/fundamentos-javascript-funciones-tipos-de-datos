@@ -1,3 +1,3 @@
 function esMultiploDe(unNumero, esteOtro) {
-  return (esteOtro % unNumero) === 0
+    return esteOtro % unNumero === 0;
 }

@@ -1,11 +1,11 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Declares:medallaSegunPuesto
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: DeclaresComputationWithArity1:medallaSegunPuesto
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: medallaSegunPuesto
-  inspection: UsesIf
+  - !ruby 
+    binding: "*"
+    inspection: Declares:medallaSegunPuesto
+  - !ruby 
+    binding: "*"
+    inspection: DeclaresComputationWithArity1:medallaSegunPuesto
+  - !ruby 
+    binding: medallaSegunPuesto
+    inspection: UsesIf

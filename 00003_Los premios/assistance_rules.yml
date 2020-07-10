@@ -1,13 +1,12 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    these_expectations_failed:
-    - "* Declares:medallaSegunPuesto"
-  then: 'cuidado, tenés que definir `medallaSegunPuesto` :medal:'
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    these_expectations_failed:
-    - medallaSegunPuesto UsesIf
-  then: 'si el puesto es `1` tenés que devolver `"oro"`, si el puesto es `2`, tenés
-    que devolver `"plata"` y así; quizás acá un `if` pueda ayudarnos :smile:'
+  - !ruby 
+    when: !ruby
+      these_expectations_failed:
+        - "* Declares:medallaSegunPuesto"
+    then: 'cuidado, tienes que definir `medallaSegunPuesto` :medal:'
+  - !ruby 
+    when: !ruby
+      these_expectations_failed:
+        - medallaSegunPuesto UsesIf
+    then: 'si el puesto es `1` tienes que devolver `"oro"`, si el puesto es `2`, tienes que devolver `"plata"` y así; quizás acá un `if` pueda ayudarnos :smile:'

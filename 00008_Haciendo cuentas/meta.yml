@@ -1,14 +1,14 @@
 ---
 locale: es
 tags:
-- math
-- matematica
-- abs
+  - math
+  - matematica
+  - abs
 layout: input_bottom
 editor: 0
 type: playground
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
-choices: []
-name: Haciendo cuentas
+choices: [ ]
+name: Hacer cuentas

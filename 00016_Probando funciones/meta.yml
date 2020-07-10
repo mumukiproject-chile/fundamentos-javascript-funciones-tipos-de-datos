@@ -1,11 +1,11 @@
 ---
 locale: es
-tags: []
+tags: [ ]
 layout: input_bottom
 editor: 0
 type: playground
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
-choices: []
-name: Probando funciones
+choices: [ ]
+name: Probar funciones

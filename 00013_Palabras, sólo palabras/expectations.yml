@@ -1,8 +1,8 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Except:DoesTypeTest
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Declares:esFinDeSemana
+  - !ruby 
+    binding: "*"
+    inspection: Except:DoesTypeTest
+  - !ruby 
+    binding: "*"
+    inspection: Declares:esFinDeSemana
