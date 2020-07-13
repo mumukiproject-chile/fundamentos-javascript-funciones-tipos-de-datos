@@ -19,4 +19,3 @@ function doble(numero) {
 ...notarás que los paréntesis en el `return` no son necesarios, y que la última línea la terminamos con `;`.
 
 > Veamos si se va entendiendo: escribe ahora una función JavaScript `mitad` que tome un número y devuelva su mitad. Ten en cuenta que el operador de división en JavaScript es `/`.
-
