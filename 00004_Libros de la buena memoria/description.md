@@ -26,7 +26,7 @@ false
 ム leGustaLeer(45)
 true
 ```
-
-Desarrolla y prueba en la consola la función `leGustaLeer`.
+>
+>Desarrolla y prueba en la consola la función `leGustaLeer`.
 
 
