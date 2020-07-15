@@ -1,8 +1,0 @@
----
-expectations:
-  - !ruby 
-    binding: "*"
-    inspection: Declares:extraer
-  - !ruby 
-    binding: extraer
-    inspection: Uses:max

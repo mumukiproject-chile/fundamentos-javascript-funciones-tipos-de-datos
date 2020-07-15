@@ -22,7 +22,7 @@ Como ves, en JavaScript contamos con operadores como `===`, `>=`, `>`, `<`,`<=` 
 > ```javascript
 ム leGustaLeer(15)
 false
-
+>
 ム leGustaLeer(45)
 true
 ```

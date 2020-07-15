@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Except:DoesTypeTest
+  inspection: Declares:extraer
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Declares:esFinDeSemana
+  binding: extraer
+  inspection: Uses:max

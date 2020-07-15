@@ -1,11 +1,11 @@
 ---
 expectations:
-  - !ruby 
-    binding: maximo
-    inspection: Not:Uses:max
-  - !ruby 
-    binding: "*"
-    inspection: Declares:maximo
-  - !ruby 
-    binding: "*"
-    inspection: DeclaresComputationWithArity2:maximo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: maximo
+  inspection: Not:Uses:max
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:maximo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity2:maximo
